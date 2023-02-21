@@ -33,7 +33,7 @@ public class Ejercicio19 {
         
         switch (opcion) {
         case 1:
-            resultado = Long.toString(binarioAOctal(numeroIntroducido));
+            asddsdasdresultado = Long.toString(binarioAOctal(numeroIntroducido));
             break;
         case 2:
             resultado = Long.toString(binarioADecimal(numeroIntroducido));
