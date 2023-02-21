@@ -1,9 +1,9 @@
-fre2wgergwergferqgfgre2wwgergergergfer/**
+/**
  * Une y amplía los dos programas anteriores de tal forma que se permita
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * hexadecimal y octal.
  * 
- * @author: Adrián Perogil Fernández
+ * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class Ejercicio19 {
         System.out.println(" 5) Octal -> Decimal");
         System.out.println(" 6) Octal -> Hexadecimal");
         System.out.println(" 7) Decimal -> Binario");
-        System.out.println(" 8) Deasfcsfcsxca -> Octal");
+        System.out.println(" 8) Decimal -> Octal");
         System.out.println(" 9) Decimal -> Hexadecimal");
         System.out.println("10) Hexadecimal -> Binario");
         System.out.println("11) Hexadecimal -> Octal");
@@ -33,7 +33,7 @@ public class Ejercicio19 {
         
         switch (opcion) {
         case 1:
-            asddsdasdresultado = Long.toString(binarioAOctal(numeroIntroducido));
+            resultado = Long.toString(binarioAOctal(numeroIntroducido));
             break;
         case 2:
             resultado = Long.toString(binarioADecimal(numeroIntroducido));
