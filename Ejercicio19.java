@@ -3,7 +3,7 @@
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * hexadecimal y octal.
  * 
- * @author: Adrián Perogil Fernández
+ * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
     public static void main(String[] args) {
