@@ -16,7 +16,7 @@ public class Ejercicio19 {
         System.out.println(" 5) Octal -> Decimal");
         System.out.println(" 6) Octal -> Hexadecimal");
         System.out.println(" 7) Decimal -> Binario");
-        System.out.println(" 8) Decimal -> Octal");
+        System.out.println(" 8) Deasfcsfcsxca -> Octal");
         System.out.println(" 9) Decimal -> Hexadecimal");
         System.out.println("10) Hexadecimal -> Binario");
         System.out.println("11) Hexadecimal -> Octal");
