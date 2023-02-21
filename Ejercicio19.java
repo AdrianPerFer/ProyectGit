@@ -5,7 +5,6 @@
  * 
  * @author: Adrián Perogil Fernández
  */
-import matematicas.Funciones;
 public class Ejercicio19 {
     public static void main(String[] args) {
         String resultado = "";
