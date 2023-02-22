@@ -2,7 +2,7 @@
  * Une y amplía los dos programas anteriores de tal forma que se permita
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * hexadecimal y octal.
- * Si ves esto vas bien!
+ * ¡Si ves esto vas bien!
  * No puedo mas de verdad me desespero
  * Vuenas tardes
  * Pruuuuuu
