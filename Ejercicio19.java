@@ -4,7 +4,7 @@
  * JJ
  * Hola
  * hexadecimal y octal.
- * NO QUIERO PESAO  SIGO SIN QUERE
+ * NO QUIERO PESAO  SIGO SIN QUERE Y NO LO VOY A HACER
  * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
