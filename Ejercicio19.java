@@ -5,7 +5,6 @@
  * ¡Si ves esto vas bien otra vez!
  * No puedo mas de verdad me desespero
  * Vuenas tardes
- * Pruuuuuu
  * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
