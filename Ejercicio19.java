@@ -2,19 +2,6 @@
  * Une y amplía los dos programas anteriores de tal forma que se permita
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * hexadecimal y octal.
- * ¡Si ves esto vas bien otra vez per oesta ya vez es la de verdad o no...
- * que salga bien porfavo
- * PITA PITA
- * Hola
- *  AS
- * CAMBIO ADRI
- * me da que no
- * o si quien sabe
- * se confio
- * y salio bien sosio somos unas capos
- * me da que tampoco
- * No puedo mas de verdad me desespero
- * Vuenas tardes
  * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
