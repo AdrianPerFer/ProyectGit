@@ -2,7 +2,6 @@
  * Une y amplía los dos programas anteriores de tal forma que se permita
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * hexadecimal y octal.
- * Hola weno dia
  * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
