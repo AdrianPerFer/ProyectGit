@@ -3,7 +3,7 @@
  * convertir un número entre cualquiera de las siguientes bases: decimal, binario,
  * Hola
  * hexadecimal y octal.
- * NO QUIERO PESAO 
+ * NO QUIERO PESAO  SIGO SIN QUERE
  * @author: Javier Miguel Martín Gallardo
  */
 public class Ejercicio19 {
