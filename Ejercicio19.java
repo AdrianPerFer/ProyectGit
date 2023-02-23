@@ -7,6 +7,22 @@
  * NO QUIERO PESAO  SIGO SIN QUERE
  * @author: Javier Miguel Martín Gallardo
  */
+fdeferfr
+gre
+2g
+34
+fw
+ef
+wer
+gftr
+h
+t3gh
+er
+gf2
+f
+rw
+
+
 public class Ejercicio19 {
     public static void main(String[] args) {
         String resultado = "";
